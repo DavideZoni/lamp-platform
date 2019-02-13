@@ -1,2 +1,2 @@
 # lamp-platform
-Lightweight Applicatio-Specific Processor
+Lightweight Application-Specific Processor
